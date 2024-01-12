@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.70650202.css",
-    "main.js": "/static/js/main.3dd6fbc3.js",
+    "main.js": "/static/js/main.91e3f6dc.js",
     "static/js/787.e4bdc0c1.chunk.js": "/static/js/787.e4bdc0c1.chunk.js",
     "static/media/wis_logo.png": "/static/media/wis_logo.9a51579b56d1b477fef5.png",
     "static/media/sidebar-4.jpg": "/static/media/sidebar-4.742e839b462cec676577.jpg",
     "static/media/charliePuth_attention.jpg": "/static/media/charliePuth_attention.3aa46743fdf1f85a9c75.jpg",
     "index.html": "/index.html",
     "main.70650202.css.map": "/static/css/main.70650202.css.map",
-    "main.3dd6fbc3.js.map": "/static/js/main.3dd6fbc3.js.map",
+    "main.91e3f6dc.js.map": "/static/js/main.91e3f6dc.js.map",
     "787.e4bdc0c1.chunk.js.map": "/static/js/787.e4bdc0c1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70650202.css",
-    "static/js/main.3dd6fbc3.js"
+    "static/js/main.91e3f6dc.js"
   ]
 }
